@@ -1,2 +1,0 @@
-#average neibor per intersection:
-4.0458
