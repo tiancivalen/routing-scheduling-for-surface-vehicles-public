@@ -1,0 +1,3 @@
+#	start	end
+airbuffer_index	305	308
+stand_index	174	302

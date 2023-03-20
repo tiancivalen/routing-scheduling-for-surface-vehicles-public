@@ -1,0 +1,5 @@
+#configuration file
+#ors=yes/no
+#heuristic=sd/euclidean/zero
+ors=no
+heuristic=euclidean
