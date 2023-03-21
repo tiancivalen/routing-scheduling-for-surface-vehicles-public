@@ -1,4 +1,4 @@
-This is the code for our papers
+This is the code for our following papers
 
 [1] Tianci Zhang, Meng Ding, Hongfu Zuo. Improved approach for time-based taxi trajectory planning towards conflict-free, efficient and fluent airport ground movement. IET Intelligent Transport Systems, 2018, 12(10): 1360-1368.
 
